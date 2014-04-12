@@ -4,3 +4,6 @@
 [submodule "content/themes/GhostScroll"]
 	path = content/themes/GhostScroll
 	url = git@github.com:tomasperezv/GhostScroll.git
+[submodule "content/themes/GhostScroll-2"]
+	path = content/themes/GhostScroll-2
+	url = git@github.com:tomasperezv/GhostScroll.git
